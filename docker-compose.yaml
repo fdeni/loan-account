@@ -1,0 +1,7 @@
+version: '2.6'
+services:
+  loan-account-app:
+    build: .
+    ports:
+      - "8080:8080"
+    restart: always
