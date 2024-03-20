@@ -17,7 +17,7 @@ public class LoanServiceImpl implements LoanService {
     private static final int MONTH_OF_YEAR = 12;
     private static final int DIV_PERCENT = 100;
     private static final int DAY_OF_YEAR = 360;
-    private static final int DAY_OF_MONTH = 360;
+    private static final int DAY_OF_MONTH = 30;
 
     @Override
     public List<LoanInstallmentResponse> calculateInstallments(LoanRequest request) {
