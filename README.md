@@ -47,97 +47,97 @@ Loan Account Module is an simple API designed to calculate loan account.
       "no": 1,
       "date": "2023-09-10",
       "totalPayment": "856074.82",
-      "principalPayment": "356075",
-      "interestPayment": "500000",
-      "remainingPrincipal": "9643925"
+      "principalPayment": "814408",
+      "interestPayment": "41667",
+      "remainingPrincipal": "9185592"
     },
     {
       "no": 2,
       "date": "2023-10-10",
       "totalPayment": "856074.82",
-      "principalPayment": "373879",
-      "interestPayment": "482196",
-      "remainingPrincipal": "9270047"
+      "principalPayment": "817802",
+      "interestPayment": "38273",
+      "remainingPrincipal": "8367790"
     },
     {
       "no": 3,
       "date": "2023-11-10",
       "totalPayment": "856074.82",
-      "principalPayment": "392572",
-      "interestPayment": "463502",
-      "remainingPrincipal": "8877474"
+      "principalPayment": "821209",
+      "interestPayment": "34866",
+      "remainingPrincipal": "7546581"
     },
     {
       "no": 4,
       "date": "2023-12-10",
       "totalPayment": "856074.82",
-      "principalPayment": "412201",
-      "interestPayment": "443874",
-      "remainingPrincipal": "8465273"
+      "principalPayment": "824631",
+      "interestPayment": "31444",
+      "remainingPrincipal": "6721951"
     },
     {
       "no": 5,
       "date": "2024-01-10",
       "totalPayment": "856074.82",
-      "principalPayment": "432811",
-      "interestPayment": "423264",
-      "remainingPrincipal": "8032462"
+      "principalPayment": "828067",
+      "interestPayment": "28008",
+      "remainingPrincipal": "5893884"
     },
     {
       "no": 6,
       "date": "2024-02-10",
       "totalPayment": "856074.82",
-      "principalPayment": "454452",
-      "interestPayment": "401623",
-      "remainingPrincipal": "7578010"
+      "principalPayment": "831517",
+      "interestPayment": "24558",
+      "remainingPrincipal": "5062367"
     },
     {
       "no": 7,
       "date": "2024-03-10",
       "totalPayment": "856074.82",
-      "principalPayment": "477174",
-      "interestPayment": "378901",
-      "remainingPrincipal": "7100836"
+      "principalPayment": "834982",
+      "interestPayment": "21093",
+      "remainingPrincipal": "4227385"
     },
     {
       "no": 8,
       "date": "2024-04-10",
       "totalPayment": "856074.82",
-      "principalPayment": "501033",
-      "interestPayment": "355042",
-      "remainingPrincipal": "6599803"
+      "principalPayment": "838461",
+      "interestPayment": "17614",
+      "remainingPrincipal": "3388925"
     },
     {
       "no": 9,
       "date": "2024-05-10",
       "totalPayment": "856074.82",
-      "principalPayment": "526085",
-      "interestPayment": "329990",
-      "remainingPrincipal": "6073718"
+      "principalPayment": "841954",
+      "interestPayment": "14121",
+      "remainingPrincipal": "2546970"
     },
     {
       "no": 10,
       "date": "2024-06-10",
       "totalPayment": "856074.82",
-      "principalPayment": "552389",
-      "interestPayment": "303686",
-      "remainingPrincipal": "5521329"
+      "principalPayment": "845462",
+      "interestPayment": "10612",
+      "remainingPrincipal": "1701508"
     },
     {
       "no": 11,
       "date": "2024-07-10",
       "totalPayment": "856074.82",
-      "principalPayment": "580008",
-      "interestPayment": "276066",
-      "remainingPrincipal": "4941321"
+      "principalPayment": "848985",
+      "interestPayment": "7090",
+      "remainingPrincipal": "852523"
     },
     {
       "no": 12,
       "date": "2024-08-10",
       "totalPayment": "856074.82",
-      "principalPayment": "609009",
-      "interestPayment": "247066",
-      "remainingPrincipal": "4332312"
+      "principalPayment": "852523",
+      "interestPayment": "3552",
+      "remainingPrincipal": "0"
     }
   ],
   "error": null,
